@@ -10,4 +10,4 @@ For Example:
 node changelog.js 11 2.1.8.0
 ```
 
-This will output a .md file containing a changelog for the 
+This will output a .md file containing a changelog for the milestone provided.
